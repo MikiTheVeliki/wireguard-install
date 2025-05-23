@@ -117,7 +117,7 @@ function getHomeDirForClient() {
 function initialCheck() {
 	isRoot
 	checkOS
-	checkVirt
+#	checkVirt
 }
 
 function installQuestions() {
